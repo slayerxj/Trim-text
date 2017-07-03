@@ -15,7 +15,7 @@ fs.readFile('pending.txt', (err, data) => {
         }
     }
 
-    fs.writeFile("trimed.js", "module.exports = " + JSON.stringify(items, null, "\n"), function (err) {
+    fs.writeFile("trimed.js", "module.exports = " + JSON.stringify(items, null, ""), function (err) {
         if (err) {
             throw err;
         }
