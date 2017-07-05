@@ -5,17 +5,19 @@ fs.readFile('pending.txt', (err, data) => {
     var items = [];
     for (var i = 0; i < longString.length; i++) {
         var char = longString.charAt(i);
-        if ((char !== " ") && (char !== "\r") && (char !== "\n")) {
+        if ((char !== "\r") && (char !== "\n")) {
             name = name + char;
         } else {
             if (name != "") {
-                items.push(name);
+                if (!Number.isInteger(parseInt(name))) {
+                    items.push(name);
+                }
             }
             name = "";
         }
     }
 
-    fs.writeFile("trimed.js", "module.exports = " + JSON.stringify(items, null, ""), function (err) {
+    fs.writeFile("trimed.js", "module.exports = " + JSON.stringify(items, null, ""), function(err) {
         if (err) {
             throw err;
         }

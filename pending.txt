@@ -1,112 +1,875 @@
-北京大学
-中国人民大学
-清华大学
-北京交通大学
-北京工业大学
-北京航空航天大学
-北京理工大学
-北京科技大学
-北京化工大学
-北京邮电大学
-中国农业大学
-北京林业大学
-北京中医药大学
-北京师范大学
-北京外国语大学
-中国传媒大学
-中央财经大学
-对外经济贸易大学
-北京体育大学
-中央音乐学院
-中央民族大学
-中国政法大学
-华北电力大学
-南开大学
-天津大学
-天津医科大学
-河北工业大学
-太原理工大学
-内蒙古大学
-辽宁大学
-大连理工大学
-东北大学
-大连海事大学
-吉林大学
-延边大学
-东北师范大学
-哈尔滨工业大学
-哈尔滨工程大学
-东北农业大学
-东北林业大学
-复旦大学
-同济大学
-上海交通大学
-华东理工大学
-东华大学
-华东师范大学
-上海外国语大学
-上海财经大学
-上海大学
-第二军医大学 
-南京大学
-苏州大学
-东南大学
-南京航空航天大学
-南京理工大学
-中国矿业大学
-河海大学
-江南大学
-南京农业大学
-中国药科大学
-南京师范大学
-浙江大学
-安徽大学
-中国科学技术大学
-合肥工业大学
-厦门大学
-福州大学
-南昌大学
-山东大学
-中国海洋大学
-中国石油大学
-郑州大学
-武汉大学
-华中科技大学
-中国地质大学
-武汉理工大学
-华中农业大学
-华中师范大学
-中南财经政法大学
-湖南大学
-中南大学
-湖南师范大学
-国防科学技术大学
-中山大学
-暨南大学
-华南理工大学
-华南师范大学
-广西大学
-海南大学
-四川大学
-西南交通大学
-电子科技大学
-四川农业大学
-西南财经大学
-重庆大学
-西南大学
-贵州大学
-云南大学
-西藏大学
-西北大学
-西安交通大学
-西北工业大学
-西安电子科技大学
-长安大学
-西北农林科技大学
-陕西师范大学
-第四军医大学
-兰州大学
-青海大学
-宁夏大学
-新疆大学
-石河子大学
+1
+
+Harvard University
+
+1
+
+2
+
+Stanford University
+
+2
+
+3
+
+Massachusetts Institute of Technology (MIT)
+
+3
+
+4
+
+University of California-Berkeley
+
+4
+
+5
+
+Princeton University
+
+6
+
+6
+
+California Institute of Technology
+
+7
+
+7
+
+Columbia University
+
+8
+
+8
+
+University of Chicago
+
+9
+
+9
+
+Yale University
+
+11
+
+10
+
+University of California, Los Angeles
+
+12
+
+11
+
+Cornell University
+
+13
+
+12
+
+University of California, San Diego
+
+14
+
+13
+
+University of Washington
+
+15
+
+14
+
+University of Pennsylvania
+
+16
+
+15
+
+The Johns Hopkins University
+
+17
+
+16
+
+University of California, San Francisco
+
+18
+
+17
+
+University of Michigan-Ann Arbor
+
+22
+
+18
+
+University of Wisconsin - Madison
+
+24
+
+19
+
+New York University
+
+27
+
+20
+
+Northwestern University
+
+28
+
+20
+
+University of Illinois at Urbana-Champaign
+
+28
+
+22
+
+University of Minnesota, Twin Cities
+
+30
+
+23
+
+Duke University
+
+31
+
+24
+
+Washington University in St. Louis
+
+32
+
+25
+
+Rockefeller University
+
+33
+
+26
+
+University of Colorado at Boulder
+
+34
+
+27
+
+University of North Carolina at Chapel Hill
+
+36
+
+28
+
+The University of Texas at Austin
+
+39
+
+29
+
+University of California, Santa Barbara
+
+41
+
+30
+
+University of Maryland, College Park
+
+43
+
+31
+
+The University of Texas Southwestern Medical Center at Dallas
+
+45
+
+32
+
+University of California, Irvine
+
+47
+
+33
+
+University of Southern California
+
+51
+
+34
+
+Rutgers, The State University of New Jersey - New Brunswick
+
+52
+
+35
+
+Vanderbilt University
+
+54
+
+36
+
+University of California, Davis
+
+55
+
+37
+
+Pennsylvania State University - University Park
+
+58
+
+38
+
+Purdue University - West Lafayette
+
+60
+
+39
+
+Carnegie Mellon University
+
+62
+
+40
+
+The Ohio State University - Columbus
+
+64
+
+41
+
+University of Pittsburgh-Pittsburgh Campus
+
+65
+
+42
+
+Boston University
+
+72
+
+43
+
+Brown University
+
+74
+
+44
+
+University of Florida
+
+78
+
+45
+
+Rice University
+
+82
+
+46
+
+University of Arizona
+
+86
+
+47
+
+University of Utah
+
+87
+
+48
+
+Arizona State University
+
+88
+
+49
+
+University of Rochester
+
+90
+
+50
+
+University of California, Santa Cruz
+
+93
+
+51
+
+Texas A & M University
+
+96
+
+52
+
+Georgia Institute of Technology
+
+99
+
+53-64
+
+Baylor College of Medicine
+
+101-150
+
+53-64
+
+Case Western Reserve University
+
+101-150
+
+53-64
+
+Emory University
+
+101-150
+
+53-64
+
+Indiana University Bloomington
+
+101-150
+
+53-64
+
+Mayo Medical School
+
+101-150
+
+53-64
+
+Michigan State University
+
+101-150
+
+53-64
+
+The University of Texas M. D. Anderson Cancer Center
+
+101-150
+
+53-64
+
+Tufts University
+
+101-150
+
+53-64
+
+University of California, Riverside
+
+101-150
+
+53-64
+
+University of Massachusetts Amherst
+
+101-150
+
+53-64
+
+University of Massachusetts Medical School - Worcester
+
+101-150
+
+53-64
+
+University of Virginia
+
+101-150
+
+65-77
+
+George Mason University
+
+151-200
+
+65-77
+
+Icahn School of Medicine at Mount Sinai
+
+151-200
+
+65-77
+
+Iowa State University
+
+151-200
+
+65-77
+
+North Carolina State University - Raleigh
+
+151-200
+
+65-77
+
+Oregon Health and Science University
+
+151-200
+
+65-77
+
+Oregon State University
+
+151-200
+
+65-77
+
+The University of Georgia
+
+151-200
+
+65-77
+
+University of Delaware
+
+151-200
+
+65-77
+
+University of Hawaii at Manoa
+
+151-200
+
+65-77
+
+University of Illinois at Chicago
+
+151-200
+
+65-77
+
+University of Iowa
+
+151-200
+
+65-77
+
+University of Miami
+
+151-200
+
+65-77
+
+Virginia Commonwealth University
+
+151-200
+
+78-104
+
+Colorado State University
+
+201-300
+
+78-104
+
+Dartmouth College
+
+201-300
+
+78-104
+
+Florida State University
+
+201-300
+
+78-104
+
+Louisiana State University - Baton Rouge
+
+201-300
+
+78-104
+
+Northeastern University
+
+201-300
+
+78-104
+
+Rensselaer Polytechnic Institute
+
+201-300
+
+78-104
+
+State University of New York at Buffalo
+
+201-300
+
+78-104
+
+Stony Brook University
+
+201-300
+
+78-104
+
+The George Washington University
+
+201-300
+
+78-104
+
+The University of Alabama at Birmingham
+
+201-300
+
+78-104
+
+The University of New Mexico - Albuquerque
+
+201-300
+
+78-104
+
+The University of Texas Health Science Center at Houston
+
+201-300
+
+78-104
+
+University of Cincinnati
+
+201-300
+
+78-104
+
+University of Houston
+
+201-300
+
+78-104
+
+University of Kansas
+
+201-300
+
+78-104
+
+University of Kentucky
+
+201-300
+
+78-104
+
+University of Maryland, Baltimore
+
+201-300
+
+78-104
+
+University of Missouri - Columbia
+
+201-300
+
+78-104
+
+University of Nebraska - Lincoln
+
+201-300
+
+78-104
+
+University of Notre Dame
+
+201-300
+
+78-104
+
+University of Oregon
+
+201-300
+
+78-104
+
+University of South Carolina - Columbia
+
+201-300
+
+78-104
+
+University of South Florida
+
+201-300
+
+78-104
+
+University of Tennessee - Knoxville
+
+201-300
+
+78-104
+
+Virginia Polytechnic Institute and State University
+
+201-300
+
+78-104
+
+Washington State University
+
+201-300
+
+78-104
+
+Yeshiva University
+
+201-300
+
+105-125
+
+Brandeis University
+
+301-400
+
+105-125
+
+Brigham Young University
+
+301-400
+
+105-125
+
+City University of New York City College
+
+301-400
+
+105-125
+
+Drexel University
+
+301-400
+
+105-125
+
+Georgetown University
+
+301-400
+
+105-125
+
+Indiana University-Purdue University at Indianapolis
+
+301-400
+
+105-125
+
+San Diego State University
+
+301-400
+
+105-125
+
+SUNY at Albany
+
+301-400
+
+105-125
+
+Temple University
+
+301-400
+
+105-125
+
+The University of Montana - Missoula
+
+301-400
+
+105-125
+
+The University of Texas at Dallas
+
+301-400
+
+105-125
+
+The University of Texas Health Science Center at San Antonio
+
+301-400
+
+105-125
+
+Thomas Jefferson University
+
+301-400
+
+105-125
+
+Tulane University
+
+301-400
+
+105-125
+
+University of Central Florida
+
+301-400
+
+105-125
+
+University of Colorado at Denver
+
+301-400
+
+105-125
+
+University of Connecticut
+
+301-400
+
+105-125
+
+University of Rhode Island
+
+301-400
+
+105-125
+
+University of Vermont
+
+301-400
+
+105-125
+
+Wake Forest University
+
+301-400
+
+105-125
+
+Wayne State University
+
+301-400
+
+126-146
+
+Auburn University
+
+401-500
+
+126-146
+
+Boston College
+
+401-500
+
+126-146
+
+Clemson University
+
+401-500
+
+126-146
+
+Kansas State University
+
+401-500
+
+126-146
+
+Kent State University
+
+401-500
+
+126-146
+
+Medical University of South Carolina
+
+401-500
+
+126-146
+
+Oklahoma State University
+
+401-500
+
+126-146
+
+Rush University
+
+401-500
+
+126-146
+
+Saint Louis University
+
+401-500
+
+126-146
+
+State University of New York Health Science Center at Brooklyn
+
+401-500
+
+126-146
+
+Syracuse University
+
+401-500
+
+126-146
+
+The University of Texas Medical Branch at Galveston
+
+401-500
+
+126-146
+
+University of Alaska - Fairbanks
+
+401-500
+
+126-146
+
+University of Arkansas at Fayetteville
+
+401-500
+
+126-146
+
+University of Arkansas at Little Rock
+
+401-500
+
+126-146
+
+University of Maryland, Baltimore County
+
+401-500
+
+126-146
+
+University of New Hampshire - Durham
+
+401-500
+
+126-146
+
+University of Oklahoma - Norman
+
+401-500
+
+126-146
+
+University of Tennessee Health Science Center
+
+401-500
+
+126-146
+
+University of Wyoming
+
+401-500
+
+126-146
+
+Utah State University
+
+401-500
